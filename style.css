@@ -4,7 +4,7 @@
   
   --textcolor: #121212;
   --bgcolor: #fff;
-  --highlight: #2749c9;
+  --highlight: #007a3d;
 
 }
 
@@ -61,6 +61,7 @@ header {
 
 header h1 {
   font-size: 1em;
+  color: #CE1225;
   flex: 1; /* pushes nav to the right */
   white-space: nowrap;
   padding: 0 5vw .5em 0;
